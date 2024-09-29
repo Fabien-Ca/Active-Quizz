@@ -1,5 +1,10 @@
-
 # Active Quiz Changelog 
+
+* 2024
+     * update for Moodle 4.1
+     * No time by default for all questions 
+      
+
 
 * 2015-3-6
     * "Regrade all grades" no forces the refresh of all question attempts.  
