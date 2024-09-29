@@ -1,7 +1,7 @@
 # Active Quiz Changelog 
 
 * 2024
-     * update for Moodle 4.1
+     * update for Moodle 4.1 Thanks to LMS factory
      * No time by default for all questions 
       
 
